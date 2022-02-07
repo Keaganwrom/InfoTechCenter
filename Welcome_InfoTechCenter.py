@@ -1,1 +1,5 @@
-print("hello world - snow day")
+# Code Name - Hornet
+
+print("Welcome to Hornets InfoTechCenter\n")
+
+print("Hornets operating system booting up")
